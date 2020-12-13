@@ -23,6 +23,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  
 }
 
 .footer img {
@@ -119,4 +120,8 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.spacing {
+  margin-top: 120px;
 }

@@ -42,6 +42,10 @@ export default function Home() {
           </Flex>
         </Box>
       </main>
+      <footer>
+        <p style={{textAlign: "center"}}>Politecnico Colombiano Jaime Isaza Cadavid</p>
+        <p style={{textAlign: "center"}}>FUNDAMENTOS DE ERGONOMÍA - JULIAN ÑAÑEZ RAMOS</p> 
+      </footer>
     </div>
   );
 }
