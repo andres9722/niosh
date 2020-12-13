@@ -40,6 +40,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>Ergonomía</h1>
         <Link href='/explanation'>Explicación</Link>
+        <a target="_blank" href='https://suspicious-jepsen-297e54.netlify.app/'>Blog</a>
 
 
         <Text as="p" sx={{fontWeight: '700', margin: '2rem 0', fontSize: '2rem', color: '#0070f3'}}>Peso limite recomendado</Text>

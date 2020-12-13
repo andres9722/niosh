@@ -29,3 +29,9 @@ a {
     border: 1px solid #aaa;
   }
 
+  a {
+    color: #0070f3;
+    text-decoration: underline;
+    margin-bottom: 1rem;
+  }
+
