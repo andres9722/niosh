@@ -26,7 +26,7 @@ export default function Home() {
         </h2>
         <p>Conclusión</p>
         {
-          result < 1.0 
+          result <= 1.0 
           ? <h4>No representa un riesgo significativo para la mayoría de los trabajadores</h4>
           : result > 1.0 && result < 3.0
           ? <h4>Representa un incremento del riesgo de lesiones de la zona baja de la espalda para una parte de la población laboral</h4>
