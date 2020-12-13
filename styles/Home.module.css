@@ -51,6 +51,7 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  margin-bottom: 1rem;
 }
 
 .title,
@@ -124,4 +125,8 @@
 
 .spacing {
   margin-top: 120px;
+}
+
+.input {
+  border: 2px solid red;
 }
